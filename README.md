@@ -14,4 +14,4 @@ This project provides a comprehensive data-driven analysis of the Polish game de
 * **Market Intelligence** (Business metrics and revenue forecasting).
 
 ### 📈 Visualizations
-*(Тут ти зможеш додати графік пізніше)*
+![Market Analysis](polish_market_analysis.png)
